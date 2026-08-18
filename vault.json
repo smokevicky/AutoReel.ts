@@ -1,0 +1,32 @@
+[
+  {
+    "id": "patia-demands-vs-whispr",
+    "vibe": "satirical / high maintenance dating vs raw 3 AM chats in Bhubaneswar",
+    "description": "Girl listing absurd high-maintenance demands vs the reality of connecting on Whispr",
+    "topSetupText": "Her: \"You need to have a car 🏎️ and take me to expensive cafes in Patia 💸\"",
+    "transitionText": "Meanwhile me on @whispr.bot at 3 AM:",
+    "pillText": "matching with someone who actually gets me 😭✨",
+    "videoUrl": "clip1.mp4",
+    "durationInFrames": 210
+  },
+  {
+    "id": "accidental-skip-soulmate",
+    "vibe": "existential breakdown / regret / accidental slip",
+    "description": "Accidentally skipping a 10/10 connection because your thumb slipped",
+    "topSetupText": "Her: \"why is he taking so long to reply?\"",
+    "transitionText": "Meanwhile me:",
+    "pillText": "me after accidentally skipping my soulmate on whispr 😭💀",
+    "videoUrl": "clip2.mp4",
+    "durationInFrames": 210
+  },
+  {
+    "id": "the-whispr-effect",
+    "vibe": "wholesome / euphoric / late-night connection",
+    "description": "Finding an anonymous stranger on campus who matches your exact freak",
+    "topSetupText": "POV: You matched with an anonymous stranger from KIIT at 3 AM",
+    "transitionText": "and the conversation goes from midsem trauma to deep life talks:",
+    "pillText": "The whispr effect 🐻✨",
+    "videoUrl": "clip3.mp4",
+    "durationInFrames": 210
+  }
+]

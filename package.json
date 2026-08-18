@@ -1,0 +1,29 @@
+{
+  "name": "autoreel-ts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "fetch-trends": "tsx scripts/1-fetch-trends.ts",
+    "generate-hook": "tsx scripts/2-generate-hook.ts",
+    "auto-reel": "tsx scripts/3-post-reel.ts",
+    "render": "tsx scripts/3-post-reel.ts"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@remotion/bundler": "^4.0.140",
+    "@remotion/google-fonts": "^4.0.140",
+    "@remotion/renderer": "^4.0.140",
+    "dotenv": "^16.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.140"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
